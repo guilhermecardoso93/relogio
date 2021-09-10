@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  background: rgb(138, 180, 228);
+  font: normal 15pt Roboto;
+}
+
+
+header {
+  font: normal 35pt Dancing Script;
+  color: white;
+  text-align: center;
+  margin-top: 0;
+}
+
+section {
+  font: normal 28pt Dancing Script;
+  background: white;
+  border-radius: 10px;
+  width: 750px;
+  margin: auto;
+  box-shadow: 5px 5px 10px rgba(3, 3, 3, 0.39);
+}
+
+div {
+  text-align: center;
+  padding: 8px;
+}
+
+#day {
+  font: 20px Roboto;
+}
+
+#bom{
+  position: relative;
+}
+#foto {
+  margin: auto 10px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+#imagem {
+  border-radius: 4000px;
+  max-width: 650px;
+  box-shadow: 5px 5px 10px rgba(3, 3, 3, 0.39);
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font-style: italic;
+  margin-top:5px;
+}
